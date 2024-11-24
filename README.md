@@ -27,7 +27,3 @@ A storage management and file sharing platform that lets users effortlessly uplo
 - TailwindCSS
 - ShadCN
 - TypeScript
-
-## <a name="features"> Features</a>
-
-👉 **User Authentication with Appwrite**: Implement signup, login, and logout functionality using Appwrite's authentication system.
