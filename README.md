@@ -8,7 +8,7 @@
 <h1 align="center">Chirag </h1>
 
    <div align="center">
-     A fully functional storage management system. <a href="https://www.niladrihazra.site" target="_blank"><b>Live link</b></a>
+     A fully functional storage management system. <a href="https://chirag.niladrihazra.site/" target="_blank"><b>Live link</b></a>
     </div>
 </div>
 
